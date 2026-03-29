@@ -124,4 +124,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Created by Oleh Sharudin
+Created by Oleh Sharudin — [github.com/OlehSharudin](https://github.com/OlehSharudin)
