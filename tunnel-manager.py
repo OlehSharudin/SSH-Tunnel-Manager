@@ -401,7 +401,6 @@ CLOSING THE APPLICATION
         author_text = """👤 Created by: Oleh Sharudin
 📅 Date: December 10, 2025
 💼 Role: DevOps Engineer
-🔗 GitHub: YOUR_GITHUB_URL"""
         
         author_label = ttk.Label(author_info_frame, text=author_text, justify='left')
         author_label.pack(anchor='w')
